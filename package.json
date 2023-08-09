@@ -16,7 +16,7 @@
     "url": "https://github.com/INT201-demo-org/test-demo/issues"
   },
   "homepage": "https://github.com/INT201-demo-org/test-demo#readme",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^29.6.2"
   }
 }
